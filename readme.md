@@ -29,6 +29,5 @@
 ### [2.4. Ubiquitous Language](#24-ubiquitous-language)
 ---
 
+## 1.1. Startup Profile
 
-<h3 id="11-startup-profile">1.1. Startup Profile</h3>
-lorem
