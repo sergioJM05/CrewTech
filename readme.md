@@ -29,5 +29,5 @@
 ### [2.4. Ubiquitous Language](#24-ubiquitous-language)
 ---
 
-## Startup Profile
+### Startup Profile
 
