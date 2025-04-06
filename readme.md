@@ -1,6 +1,6 @@
 # CONTENIDO
 ## Capítulo 1
-### [1.1. Startup Profile](#11-startup-profile)
+### [1.1. Startup Profile](#startup-profile)
 #### [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 ### [1.2. Solution Profile](#12-solution-profile)
 #### [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
@@ -28,7 +28,7 @@
 ### [2.4. Ubiquitous Language](#24-ubiquitous-language)
 ---
 
-### 1.1. Startup Profile
+### Startup Profile
 ---
 
 
